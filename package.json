@@ -1,0 +1,19 @@
+{
+  "name": "travis-test-project",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugoj-goncalves/Testes"
+  },
+  "author": "hugoj-goncalves",
+  "bugs": {
+    "url": "https://github.com/hugoj-goncalves/Testes/issues"
+  },
+  "homepage": "https://github.com/hugoj-goncalves/Testes",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
