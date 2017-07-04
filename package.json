@@ -2,7 +2,7 @@
   "name": "travis-test-project",
   "version": "0.0.0",
   "scripts": {
-    "test": "jasmine"
+    "test": "protractor"
   },
   "repository": {
     "type": "git",
