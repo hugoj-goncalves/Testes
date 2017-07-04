@@ -3,6 +3,5 @@ node_js:
   - "7"
 before_install:
  - npm config set spin false
- - npm --version
- - jasmine --version
+ - ./node_modules/.bin/jasmine --version
  
